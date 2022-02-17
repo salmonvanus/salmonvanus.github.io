@@ -53,7 +53,7 @@
 		<button type="button" class="btn btn-danger btn-circle "><a href="https://www.linkedin.com/in/stevanus-salmon-34b915228/" target="_blank"><i class="bi bi-linkedin bi-5x" style="color: white; "></a></i></button>
 
 		<!-- <hr class="hr-footer-kiri" /> -->
-		<p class="text-footer"><span>© salmonvanus.id<span></p>
+		<p class="text-footer"><span>© salmonvanus<span></p>
 		<!-- <hr class="hr-footer-kanan" /> -->
 	</div>
 
