@@ -55,7 +55,6 @@
 		<p class="text-footer"><span>© salmonvanus.id<span></p>
 	</div>
 
-
 	<script src="<?= base_url('assets/'); ?>js/custom.js"></script>
 	<script>
 		var base_url = "<?php echo base_url(); ?>"
