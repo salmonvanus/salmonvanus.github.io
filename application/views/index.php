@@ -52,9 +52,7 @@
 		<button type="button" class="btn btn-danger btn-circle "><a href="mailto:stevanussalmon@gmail.com?subject=Project" target="_blank"><i class="bi bi-envelope bi-5x" style="color: white; "></a></i></button>
 		<button type="button" class="btn btn-danger btn-circle "><a href="https://www.linkedin.com/in/stevanus-salmon-34b915228/" target="_blank"><i class="bi bi-linkedin bi-5x" style="color: white; "></a></i></button>
 
-		<!-- <hr class="hr-footer-kiri" /> -->
 		<p class="text-footer"><span>© salmonvanus.id<span></p>
-		<!-- <hr class="hr-footer-kanan" /> -->
 	</div>
 
 
@@ -63,7 +61,6 @@
 		var base_url = "<?php echo base_url(); ?>"
 	</script>
 
-	<!-- Option 1: jQuery and Bootstrap Bundle (includes Popper) -->
 	<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
 
 	<script src="<?= base_url('assets/'); ?>vendor/jquery/jquery.min.js"></script>
