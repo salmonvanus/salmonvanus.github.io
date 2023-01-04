@@ -44,7 +44,9 @@
 		</h2>
 
 		<p class="text-monospace" style="font-size: larger;">I'm <a class="text-monospace" style="font-size: larger" href="https://www.instagram.com/salmonvanus/" target="_blank"><b><u>Stevanus William Salmon,</u></b></a></p>
-		<p class="text-monospace" style="font-size: larger;"> Full Stack Developer | Graphic Designer </p>
+		<!-- <p class="text-monospace" style="font-size: larger;"> Full Stack Developer | Graphic Designer </p> -->
+		<p class="text-monospace" style="font-size: larger;"> Junior Backend Developer at Diskominfo Kabupaten Sitaro </p>
+		<p class="text-monospace" style="font-size: larger;"> Explore to see <a class="text-monospace" href="<?= base_url() ?>Project"><b><u>My Project,</u></b></a> </p>
 		<p class="text-monospace" style="font-size: larger;"> Info For Business : </p>
 		<br />
 		<button type="button" class="btn btn-danger btn-circle "><a href="https://www.instagram.com/salmonvanus/" target="_blank"><i class="bi bi-instagram bi-5x" style="color: white; "></a></i></button>
