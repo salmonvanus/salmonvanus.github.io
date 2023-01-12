@@ -39,7 +39,7 @@
         <div class="text-white text-monospace" id="clock2" style="font-size:small;"></div>
         <p></p>
         <h2>
-            <a href="" class="typewrite" style="color: #DB1A2C; font-family:monospace;" data-period="2000" data-type='[ "My Project" ]'>
+            <a  class="typewrite" style="color: #DB1A2C; font-family:monospace;" data-period="2000" data-type='[ "My Project" ]'>
                 <span class="wrap"></span>
             </a>
         </h2>
@@ -47,13 +47,13 @@
 
         <!-- <hr /> -->
         <!-- <br /> -->
-        <a href="https://sidakbbmsubsidi.salmonvanus.id/" target="_blank"><button type="button" class="btn btn-danger btn-circle mt-2" style="width: 40%; height:20%"><b>SIDAK BBM SUBSIDI</b><br><u style="font-size:12px ;">#Layanan Pengambilan BBM Subsidi Kabupaten Sitaro</u></br></button></a>
-        <a href="#" target="_blank"><button type="button" class="btn btn-danger btn-circle mt-2" style="width: 40%; height:20%"><b>KONSULTASI HUKUM</b><br><u style="font-size:12px ;">#Layanan Konsultasi Hukum Masyarakat Kabupaten Minahasa Selatan</u></br></button></a>
-        <a href="#" target="_blank"><button type="button" class="btn btn-danger btn-circle mt-2" style="width: 40%;height:20%"><b>LAPOR ORMAS</b><br><u style="font-size:12px ;">#Layanan Pendaftaran & Pelaporan Ormas Prov. Sulut</u></br></button></a>
+        <a ><button type="button" class="btn btn-danger btn-circle mt-2" style="width: 40%; height:20%"><b>SIDAK BBM SUBSIDI</b><br><u style="font-size:12px ;">#Layanan Pengambilan BBM Subsidi Kabupaten Sitaro</u></br></button></a>
+        <a ><button type="button" class="btn btn-danger btn-circle mt-2" style="width: 40%; height:20%"><b>KONSULTASI HUKUM</b><br><u style="font-size:12px ;">#Layanan Konsultasi Hukum Masyarakat Kabupaten Minahasa Selatan</u></br></button></a>
+        <a ><button type="button" class="btn btn-danger btn-circle mt-2" style="width: 40%;height:20%"><b>LAPOR ORMAS</b><br><u style="font-size:12px ;">Layanan Pendaftaran & Pelaporan Ormas Prov. Sulut</u></br></button></a>
 
-        <a href="https://pakarsinus.salmonvanus.id/" target="_blank"><button type="button" class="btn btn-danger btn-circle mt-2" style="width: 40%; height:20%"><b>PAKAR SINUS</b><br><u style="font-size:12px ;">#Sistem Pakar Penyakit Sinusitis</u></br></button></a>
-        <a href="#" target="_blank"><button type="button" class="btn btn-danger btn-circle mt-2" style="width: 40%; height:20%"><b>UMKM BITUNG</b><br><u style="font-size:12px ;">#Aplikasi Portal UMKM Kota Bitung</u></br></button></a>
-        <a href="#" target="_blank"><button type="button" class="btn btn-danger btn-circle mt-2" style="width: 40%; height:20%"><b>DINSOS PMKS</b><br><u style="font-size:12px ;">#Aplikasi Pendataan Masyarakat Penyandang Masalah Kesejahteraan Sosial</u></br></button></a>
+        <a ><button type="button" class="btn btn-danger btn-circle mt-2" style="width: 40%; height:20%"><b>PAKAR SINUS</b><br><u style="font-size:12px ;">Sistem Pakar Penyakit Sinusitis</u></br></button></a>
+        <a ><button type="button" class="btn btn-danger btn-circle mt-2" style="width: 40%; height:20%"><b>UMKM BITUNG</b><br><u style="font-size:12px ;">#Aplikasi Portal UMKM Kota Bitung</u></br></button></a>
+        <a ><button type="button" class="btn btn-danger btn-circle mt-2" style="width: 40%; height:20%"><b>DINSOS PMKS</b><br><u style="font-size:12px ;">#Aplikasi Pendataan Masyarakat Penyandang Masalah Kesejahteraan Sosial</u></br></button></a>
 
         <p class="text-monospace mt-3" style="font-size: larger; "><a class="text-monospace" style="font-size: 14px" href="<?= base_url('Welcome'); ?>" target="_blank"><b><u>#Home,</u></b></a></p>
 
