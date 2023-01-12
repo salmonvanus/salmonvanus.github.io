@@ -50,7 +50,6 @@
         <a ><button type="button" class="btn btn-danger btn-circle mt-2" style="width: 40%; height:20%"><b>SIDAK BBM SUBSIDI</b><br><u style="font-size:12px ;">#Layanan Pengambilan BBM Subsidi Kabupaten Sitaro</u></br></button></a>
         <a ><button type="button" class="btn btn-danger btn-circle mt-2" style="width: 40%; height:20%"><b>KONSULTASI HUKUM</b><br><u style="font-size:12px ;">#Layanan Konsultasi Hukum Masyarakat Kabupaten Minahasa Selatan</u></br></button></a>
         <a ><button type="button" class="btn btn-danger btn-circle mt-2" style="width: 40%;height:20%"><b>LAPOR ORMAS</b><br><u style="font-size:12px ;">Layanan Pendaftaran & Pelaporan Ormas Prov. Sulut</u></br></button></a>
-
         <a ><button type="button" class="btn btn-danger btn-circle mt-2" style="width: 40%; height:20%"><b>PAKAR SINUS</b><br><u style="font-size:12px ;">Sistem Pakar Penyakit Sinusitis</u></br></button></a>
         <a ><button type="button" class="btn btn-danger btn-circle mt-2" style="width: 40%; height:20%"><b>UMKM BITUNG</b><br><u style="font-size:12px ;">#Aplikasi Portal UMKM Kota Bitung</u></br></button></a>
         <a ><button type="button" class="btn btn-danger btn-circle mt-2" style="width: 40%; height:20%"><b>DINSOS PMKS</b><br><u style="font-size:12px ;">#Aplikasi Pendataan Masyarakat Penyandang Masalah Kesejahteraan Sosial</u></br></button></a>
